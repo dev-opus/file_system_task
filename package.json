@@ -1,0 +1,11 @@
+{
+  "name": "file_system_task",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Victor Orlunda <vicorlunda@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
